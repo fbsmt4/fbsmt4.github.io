@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+  <title>95438C23-D397-485F-9E32-74BB21B5EFCF</title>
+  <desc>Created with sketchtool.</desc>
+  <defs>
+    <path d="M12.6666667,18 L15.3333333,18 L15.3333333,20.6666667 L12.6666667,20.6666667 L12.6666667,18 Z M12.6666667,7.33333333 L15.3333333,7.33333333 L15.3333333,15.3333333 L12.6666667,15.3333333 L12.6666667,7.33333333 Z M13.9866667,0.666666667 C6.62666667,0.666666667 0.666666667,6.64 0.666666667,14 C0.666666667,21.36 6.62666667,27.3333333 13.9866667,27.3333333 C21.36,27.3333333 27.3333333,21.36 27.3333333,14 C27.3333333,6.64 21.36,0.666666667 13.9866667,0.666666667 L13.9866667,0.666666667 Z M14,24.6666667 C8.10666667,24.6666667 3.33333333,19.8933333 3.33333333,14 C3.33333333,8.10666667 8.10666667,3.33333333 14,3.33333333 C19.8933333,3.33333333 24.6666667,8.10666667 24.6666667,14 C24.6666667,19.8933333 19.8933333,24.6666667 14,24.6666667 L14,24.6666667 Z" id="path-1"></path>
+  </defs>
+  <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="ic_attention_outline-ic_attention_outline_red">
+      <g id="ic_error_outline" transform="translate(2.000000, 2.000000)">
+        <mask id="mask-2" fill="white">
+          <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Mask"></g>
+        <rect id="Rectangle" fill="#FF0000" mask="url(#mask-2)" x="-2" y="-2" width="32" height="32"></rect>
+      </g>
+    </g>
+  </g>
+</svg>

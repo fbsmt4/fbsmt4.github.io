@@ -1,0 +1,21 @@
+<svg id="Notice_icon" xmlns="http://www.w3.org/2000/svg" width="145.625" height="145.656" viewBox="0 0 145.625 145.656">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff3e7;
+      }
+
+      .cls-2 {
+        fill: #fff9f4;
+      }
+
+      .cls-3 {
+        fill: #ff3a3a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="72.813" cy="72.828" rx="72.813" ry="72.828"/>
+  <circle class="cls-2" cx="72.531" cy="72.437" r="38.219"/>
+  <path id="_" data-name="!" class="cls-3" d="M77.558,53.013H69.483l0.885,27.042h6.3ZM70.489,91.349a4.222,4.222,0,0,0,6-5.942,4.417,4.417,0,0,0-5.983,0A4.075,4.075,0,0,0,69.349,88.4,4.02,4.02,0,0,0,70.489,91.349Z" transform="translate(-0.969)"/>
+</svg>

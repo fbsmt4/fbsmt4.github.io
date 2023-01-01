@@ -1,0 +1,16 @@
+<svg id="label_new_c" xmlns="http://www.w3.org/2000/svg" width="26" height="13" viewBox="0 0 26 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f04923;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="26" height="13"/>
+  <path id="NEW" class="cls-2" d="M1586.46,404.949h-1.32v4.29l-1.93-4.29h-1.32v6.533h1.32V407.2l1.93,4.285h1.32v-6.533Zm4.89,2.643h-2.06v-1.543h2.43v-1.1h-3.74v6.533h3.75v-1.1h-2.44v-1.731h2.06v-1.064Zm5.07-2.643h-1.11l-0.76,4.1-0.62-4.1h-1.31l1.16,6.533h1.33l0.75-3.849,0.77,3.849h1.32l1.16-6.533h-1.3l-0.62,4.106Z" transform="translate(-1578 -402)"/>
+</svg>

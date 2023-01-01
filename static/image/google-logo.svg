@@ -1,0 +1,29 @@
+<svg id="google_logo" xmlns="http://www.w3.org/2000/svg" width="52.89" height="54" viewBox="0 0 17.63 18">
+    <defs>
+        <style>
+            .cls-1 {
+            fill: #4285f4;
+            }
+
+            .cls-1, .cls-2, .cls-3, .cls-4 {
+            fill-rule: evenodd;
+            }
+
+            .cls-2 {
+            fill: #34a853;
+            }
+
+            .cls-3 {
+            fill: #fbbc05;
+            }
+
+            .cls-4 {
+            fill: #ea4335;
+            }
+        </style>
+    </defs>
+    <path id="Compound_Shape" data-name="Compound Shape" class="cls-1" d="M4333.48,615.363H4325v3.482h4.84a4.147,4.147,0,0,1-1.79,2.716v2.258h2.91a8.782,8.782,0,0,0,2.68-6.615A10.985,10.985,0,0,0,4333.48,615.363Z" transform="translate(-4316 -608)"/>
+    <path id="Compound_Shape-2" data-name="Compound Shape" class="cls-2" d="M4328.05,621.561a5.429,5.429,0,0,1-3.05.859,5.365,5.365,0,0,1-5.04-3.71h-3v2.331A8.989,8.989,0,0,0,4325,626a8.6,8.6,0,0,0,5.96-2.181Z" transform="translate(-4316 -608)"/>
+    <path id="Compound_Shape-3" data-name="Compound Shape" class="cls-3" d="M4319.96,612.958h-3a8.987,8.987,0,0,0,0,8.083l3-2.331a5.365,5.365,0,0,1,0-3.421v-2.331Z" transform="translate(-4316 -608)"/>
+    <path id="Compound_Shape-4" data-name="Compound Shape" class="cls-4" d="M4325,608a8.988,8.988,0,0,0-8.04,4.958l3,2.331a5.365,5.365,0,0,1,5.04-3.71,4.858,4.858,0,0,1,3.44,1.346l2.58-2.581A8.637,8.637,0,0,0,4325,608Z" transform="translate(-4316 -608)"/>
+</svg>
