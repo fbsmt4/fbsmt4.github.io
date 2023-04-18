@@ -6,4 +6,16 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://www.fbsmt4.com/forex_trading_platforms.html</loc>
+        <lastmod>2023-04-18T14:34:32+08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.fbsmt4.com/forex_trading_tools.html</loc>
+        <lastmod>2023-04-19T15:21:32+08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
